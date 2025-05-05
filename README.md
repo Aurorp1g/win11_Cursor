@@ -4,10 +4,8 @@
 
 效果图：
 
-<img src="./Preview.jpg" height="200" />
-![效果图1](./Preview.jpg) 
-
-![效果图2](./Scheme.png)
+<img src="./Preview.jpg" height="300" />
+<img src="./Scheme.png" height="300" />
 
 使用说明见
 
