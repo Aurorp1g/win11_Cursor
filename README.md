@@ -4,9 +4,7 @@
 
 效果图：
 
-![效果图1](./Preview.jpg)
-
-![效果图2](./Scheme.png)
+![效果图1](./Preview.jpg) ![效果图2](./Scheme.png)
 
 使用说明见
 
