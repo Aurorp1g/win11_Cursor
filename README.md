@@ -4,11 +4,6 @@
 
 效果图：
 
-<img src="./Preview.jpg" height="300" />
-<img src="./Scheme.png" height="300" />
+<img src="./Preview.jpg" height="500" />
 
-使用说明见
-
-![视频](./How%20to%20install.mp4)
-
-> 引流位(吃水不忘挖井人)：[](https://www.deviantart.com/jepricreations)
+> 引流位(吃水不忘挖井人)：[https://www.deviantart.com/jepricreations](https://www.deviantart.com/jepricreations)
